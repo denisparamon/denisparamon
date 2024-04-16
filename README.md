@@ -9,3 +9,5 @@ Yekaterinburg (UTC+5) | [denis_paramon@icloud.com](mailto:denis_paramon@icloud.c
 * SQL
 * HTML
 * JavaScript
+
+><img src="certificate1.pdf" width="256" border=0><br><br>
