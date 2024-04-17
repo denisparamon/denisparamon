@@ -10,4 +10,7 @@ Yekaterinburg (UTC+5) | [denis_paramon@icloud.com](mailto:denis_paramon@icloud.c
 * HTML
 * JavaScript
 
-><img src="certificate1.png" width="256" border=0><br><br>
+>Сертификат Нетология HTML-Верстка с нуля до первого макета:
+>[<img src="certificate1.png" width="256" border=0><br><br>](https://netology.ru/sharing/23aaf1e9ba5bdbb1a5b7c240f3e9e2eb?utm_source=social&utm_campaign=certificate_lms)
+>
+><img src="certificate2.png" width="256" border=0><br><br>
