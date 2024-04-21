@@ -75,12 +75,4 @@ Yekaterinburg (UTC+5) | [+7 (995) 661-81-80](tel:+79956618180)  [hh.ru](https://
 <a href="https://netology.ru/sharing/23aaf1e9ba5bdbb1a5b7c240f3e9e2eb?utm_source=social&utm_campaign=certificate_lms"><img src="certificate2.png" width="256"></a>
 </details>
 
-<style>
-  .subheading {
-    font-weight: bold;
-    font-style: italic;
-    color: gray;
-    font-size: 200px;
-  }
-</style>
 
