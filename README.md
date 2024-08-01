@@ -6,7 +6,7 @@
   <img src="imageS/telega.png" alt="Моя Телега" width="200"/>
 </a>
 
-<a href="https://t.me/hooman_ru">
+<a href="mailto:denis_paramon@icloud.com">
   <img src="imageS/mail.png" alt="Моя Телега" width="150"/>
 </a>
 
