@@ -26,16 +26,16 @@ Yekaterinburg (UTC+5) | [+7 (995) 661-81-80](tel:+79956618180)
 
 ---
 
-* Helpdesk
-* Atlassian Jira
-* Atlassian Confluence
-* Gitlab / Hub
-* HTML
-* Php
-* SQL
+Helpdesk <br>
+Atlassian Jira <br>
+Atlassian Confluence <br>
+Gitlab / Hub <br>
+HTML <br>
+Php <br>
+SQL <br>
 
 
-Сертификаты Нетологии 2023-2024:<br/>
+**Сертификаты Нетологии 2023-2024:<br/>**
 <br/>
 <a href="https://netology.ru/sharing/4ec34ba8aa1c4596e20b985baf830c9f?utm_source=social&utm_campaign=certificate_lms"><img src="certificate1.png" width="256"></a>
 <a href="https://netology.ru/sharing/b373bf64afaf6584c34ba0f421ce105d?utm_source=social&utm_campaign=certificate_lms"><img src="certificate3.png" width="256"></a>
