@@ -28,7 +28,8 @@ Yekaterinburg (UTC+5) | [+7 (995) 661-81-80](tel:+79956618180)
 ---
 
 I am currently taking Hexlet PHP developer courses <br>
-В данный момент прохожу курсы **Hexlet PHP-разработчик** <br>
+В данный момент прохожу курсы **Hexlet PHP-разработчик**
+<br>
 
 ---
 - Helpdesk  
