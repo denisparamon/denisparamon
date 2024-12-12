@@ -18,6 +18,9 @@
   <img src="imageS/hh.png" alt="hh" width="78"/>
 </a>
 
+<a href="https://vk.com/denis_paramon">  
+  <img src="imageS/vk.png" alt="vk" width="159"/>  
+</a>
   
 <!-- [![Моя Телега](imageS/telega.png)](https://t.me/hooman_ru) 
 [![Мыло](imageS/mail.png)](mailto:denis_paramon@icloud.com)<br/> -->
