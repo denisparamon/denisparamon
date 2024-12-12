@@ -21,26 +21,23 @@
   
 <!-- [![Моя Телега](imageS/telega.png)](https://t.me/hooman_ru) 
 [![Мыло](imageS/mail.png)](mailto:denis_paramon@icloud.com)<br/> -->
-
-
+<br>
+<br>
 Yekaterinburg (UTC+5) | [+7 (995) 661-81-80](tel:+79956618180)
 
 ---
-
 I am currently taking Hexlet PHP developer courses <br>
 В данный момент прохожу курсы **Hexlet PHP-разработчик**
 <br>
-
 ---
-- Helpdesk  
-- Atlassian Jira  
-- Atlassian Confluence  
-- Gitlab / Hub 
-- HTML <br>
-- Php <br>
-- SQL <br>
-
-
+Helpdesk  
+Atlassian Jira  
+Atlassian Confluence  
+Gitlab / Hub 
+HTML <br>
+Php <br>
+SQL <br>
+---
 **Сертификаты Нетологии 2023-2024:<br/>**
 <br/>
 <a href="https://netology.ru/sharing/4ec34ba8aa1c4596e20b985baf830c9f?utm_source=social&utm_campaign=certificate_lms"><img src="certificate1.png" width="256"></a>
