@@ -10,13 +10,14 @@ Yekaterinburg (UTC+5) | [Телеграм](https://t.me/hooman_ru)
 Закончил курсы [Hexlet](https://ru.hexlet.io/courses/php-basics) и [Нетология](https://netology.ru/programs/php-developer)
 
 --- 
+Php  
+SQL
 Helpdesk  
 Atlassian Jira  
 Atlassian Confluence  
 Gitlab / Hub  
 HTML  
-Php  
-SQL <br>
+<br>
 ---
 
 **Сертификаты Нетологии 2023-2024:<br/>**
