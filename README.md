@@ -11,7 +11,7 @@ Yekaterinburg (UTC+5) | [Телеграм](https://t.me/hooman_ru)
 
 --- 
 Php  
-SQL
+SQL  
 Helpdesk  
 Atlassian Jira  
 Atlassian Confluence  
