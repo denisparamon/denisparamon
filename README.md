@@ -9,8 +9,7 @@ Yekaterinburg (UTC+5) | [Телеграм](https://t.me/hooman_ru)
 ---
 Закончил курсы [Hexlet](https://ru.hexlet.io/courses/php-basics) и [Нетология](https://netology.ru/programs/php-developer)
 
----
-Experience in technical support:
+--- 
 Helpdesk  
 Atlassian Jira  
 Atlassian Confluence  
